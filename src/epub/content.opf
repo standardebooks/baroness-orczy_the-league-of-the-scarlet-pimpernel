@@ -59,7 +59,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/5805</dc:source>
 		<dc:source>https://archive.org/details/leagueofscarletp00orcz</dc:source>
 		<meta property="se:production-notes">The transcription was missing all diacritics and most italics, these had to be added back in.</meta>
-		<meta property="se:word-count">76092</meta>
+		<meta property="se:word-count">75596</meta>
 		<meta property="se:reading-ease.flesch">70.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_League_of_the_Scarlet_Pimpernel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-league-of-the-scarlet-pimpernel</meta>
